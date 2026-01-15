@@ -1,18 +1,14 @@
-### Hello👋 
+## Hey, I'm Bhavik 👋
 
-- 😄 My name is Bhavik Makhija and I am currently a computer science student at the University of Waterloo
-- 🌱 I’m currently learning to use cloud computing platforms such as AWS
-<!--
-**BhavikMakhija/BhavikMakhija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer who likes turning ideas into working products.
+I care about clean code, performance, and building things people actually use.
 
-Here are some ideas to get you started:
+Currently interested in:
+- Full-stack development
+- Systems & scalability
+- Product-focused engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech I work with:
+- JS/TS, C++, Python
+- React, Node.js
+- PostgreSQL, MongoDB
